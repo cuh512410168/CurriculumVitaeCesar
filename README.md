@@ -62,5 +62,5 @@ Administración y Gestión de Bases de Datos (DBA / Data Developer)<br>
 
 ![LA MOTO DE MIS SUEÑOS ](https://http2.mlstatic.com/D_NQ_NP_946737-MLM97012206828_112025-O.webp)
 
-`comando`
+
 
