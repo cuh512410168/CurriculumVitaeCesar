@@ -1,9 +1,9 @@
 # CurriculumVitaeCesar
-Curriculum Vitae del ingeniero Cesar Genaro Castillo Manrique
-CV a un futuro 5 años
-Cesar Genaro Castillo Manrique
-Ing. En Sistemas Computacionales
-Soy un excelente elemento que suma a la empresa, cuento con amplios conocimientos gracias a mi experiencia, soy comprometido y dedicado al trabajo, podría sumar mucho al equipo
+##Curriculum Vitae del ingeniero Cesar Genaro Castillo Manrique
+*CV a un futuro 5 años*<br>
+Cesar Genaro Castillo Manrique<br>
+Ing. En Sistemas Computacionales<br>
+**Soy un excelente elemento que suma a la empresa, cuento con amplios conocimientos gracias a mi experiencia, soy comprometido y dedicado al trabajo, podría sumar mucho al equipo** <br>
 Ingeniería en Sistemas Computacionales
 Centro Universitario Hidalguense | Pachuca, México
 Estado: Junio 2028
