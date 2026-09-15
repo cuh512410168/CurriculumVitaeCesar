@@ -1,49 +1,49 @@
 # CurriculumVitaeCesar
-##Curriculum Vitae del ingeniero Cesar Genaro Castillo Manrique
+##Curriculum Vitae del ingeniero Cesar Genaro Castillo Manrique <br>
 *CV a un futuro 5 años*<br>
 Cesar Genaro Castillo Manrique<br>
 Ing. En Sistemas Computacionales<br>
 **Soy un excelente elemento que suma a la empresa, cuento con amplios conocimientos gracias a mi experiencia, soy comprometido y dedicado al trabajo, podría sumar mucho al equipo** <br>
-Ingeniería en Sistemas Computacionales
-Centro Universitario Hidalguense | Pachuca, México
-Estado: Junio 2028
-Asignaturas y Enfoque Relevante:
+Ingeniería en Sistemas Computacionales<br>
+Centro Universitario Hidalguense | Pachuca, México<br>
+Estado: Junio 2028<br>
+-Asignaturas y Enfoque Relevante:
 Gestión de Bases de Datos y Programación de Bases de Datos (SQL, PL/SQL, Oracle, PostgreSQL).
 Desarrollo de Tecnologías Móviles y de Software.
 Arquitectura de Redes y Comunicaciones (Enrutamiento, OSPF, Cisco).
-Sistemas Digitales y Electrónica Aplicada (Microcontroladores, Circuitos).
-<<<<<<<<<<<<<<<<<<<<Habilidades Técnicas >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-Lenguajes de Programación: JavaScript, TypeScript, SQL, HTML5.
-Tecnologías y Frameworks: React, Vite, Node.js, Express.js, MongoDB, PostgreSQL, Oracle SQL Developer.
-Redes y Electrónica: Configuración de redes (Cisco Packet Tracer, OSPF), diseño de circuitos digitales (Proteus, Tinkercad), microcontroladores (Arduino)
-<<<<<<<<<<<<<<<<<Lenguajes que conozco >>>>>>>>>>>>>>>>>>>>>>>>>>
-Lenguajes de Programación:
-JavaScript 
-TypeScript
-SQL y PL/SQL
-C/C++ (Aplicado a microcontroladores y Arduino)
-Desarrollo Web (Frontend & Backend):
-React.js
-Node.js
-Vite
-Bases de Datos:
-Relacionales: PostgreSQL, Oracle Database
-No Relacionales: MongoDB
-Herramientas de Software y Entornos:
-Oracle SQL Developer
-Git y GitHub (Control de versiones)
-Microsoft Excel Avanzado (Macros y formularios automatizados)
-Trello (Gestión de proyectos ágiles)
-Redes y Electrónica (Hardware & Simulación):
-Cisco Packet Tracer (Configuración de routers, OSPF)
-Proteus y Tinkercad (Simulación de circuitos digitales)
-Plataforma Arduino (Integración de sensores y actuadores)
-<<<<<<<<<<<<<<<<<<<<<<<<< Herramientas >>>>>>>>>>>>>>>>>>>>>>
+Sistemas Digitales y Electrónica Aplicada (Microcontroladores, Circuitos).<br>
+### Habilidades Técnicas ### <br>
+Lenguajes de Programación: JavaScript, TypeScript, SQL, HTML5.<br>
+Tecnologías y Frameworks: React, Vite, Node.js, Express.js, MongoDB, PostgreSQL, Oracle SQL Developer.<br>
+Redes y Electrónica: Configuración de redes (Cisco Packet Tracer, OSPF), diseño de circuitos digitales (Proteus, Tinkercad), microcontroladores (Arduino)<br>
+### Lenguajes que conozco ### <br>
+Lenguajes de Programación:<br>
+1. JavaScript 
+2. TypeScript
+3. SQL y PL/SQL
+4. C/C++ (Aplicado a microcontroladores y Arduino)
+5. Desarrollo Web (Frontend & Backend):
+6. React.js
+7. Node.js
+8. Vite
+###Bases de Datos:###
+1. Relacionales: PostgreSQL, Oracle Database <br>
+2. No Relacionales: MongoDB<br>
+### Herramientas de Software y Entornos: ### <br>
+1. Oracle SQL Developer
+2. Git y GitHub (Control de versiones)
+3. Microsoft Excel Avanzado (Macros y formularios automatizados)
+4. Trello (Gestión de proyectos ágiles)
+5. Redes y Electrónica (Hardware & Simulación):
+6. Cisco Packet Tracer (Configuración de routers, OSPF)
+7. Proteus y Tinkercad (Simulación de circuitos digitales)
+8. Plataforma Arduino (Integración de sensores y actuadores)
+### Herramientas ###
 Entornos de Desarrollo y Bases de Datos:
-Visual Studio Code (VS Code)
-Oracle SQL Developer
-PostgreSQL / pgAdmin
-MongoDB Compass
+- Visual Studio Code (VS Code)
+- Oracle SQL Developer
+- PostgreSQL / pgAdmin
+- MongoDB Compass
 Control de Versiones y Colaboración:
 Git & GitHub
 Trello (Gestión de tareas y tableros Kanban)
