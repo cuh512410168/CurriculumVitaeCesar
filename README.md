@@ -57,8 +57,8 @@ Lenguajes de Programación:<br>
 Desarrollo de Software Full-Stack: Creación, optimización y mantenimiento de aplicaciones web modernas, abarcando desde interfaces responsivas e interactivas hasta la lógica de servidores y APIs REST. <br>
 Gestión y Arquitectura de Bases de Datos: Modelado de datos, diseño de esquemas relacionales y no relacionales, optimización de consultas complejas y desarrollo de lógica de negocio mediante procedimientos almacenados (PL/SQL). <br>
  ### Objetivo profesional o área en la que desean desarrollarse. <br>
-Administración y Gestión de Bases de Datos (DBA / Data Developer)
-![LA MOTO DE MIS SUEÑOS ](https://www.galgo.com/mx/motos/MX2993-piston-r300)
+Administración y Gestión de Bases de Datos (DBA / Data Developer)<br>
+![LA MOTO DE MIS SUEÑOS ](https://http2.mlstatic.com/D_NQ_NP_946737-MLM97012206828_112025-O.webp)
 
 `comando`
 
