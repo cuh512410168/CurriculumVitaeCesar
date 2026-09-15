@@ -26,7 +26,8 @@ Lenguajes de Programación:<br>
 6. React.js
 7. Node.js
 8. Vite <br>
-###Bases de Datos:
+
+### Bases de Datos:
 1. Relacionales: PostgreSQL, Oracle Database <br>
 2. No Relacionales: MongoDB<br>
 ### Herramientas de Software y Entornos: ### <br>
