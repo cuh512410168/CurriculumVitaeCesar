@@ -7,7 +7,7 @@ Ing. En Sistemas Computacionales<br>
 Ingeniería en Sistemas Computacionales<br>
 Centro Universitario Hidalguense | Pachuca, México<br>
 Estado: Junio 2028<br>
--Asignaturas y Enfoque Relevante:
+###Asignaturas y Enfoque Relevante:
 Gestión de Bases de Datos y Programación de Bases de Datos (SQL, PL/SQL, Oracle, PostgreSQL).
 Desarrollo de Tecnologías Móviles y de Software.
 Arquitectura de Redes y Comunicaciones (Enrutamiento, OSPF, Cisco).
@@ -25,7 +25,7 @@ Lenguajes de Programación:<br>
 5. Desarrollo Web (Frontend & Backend):
 6. React.js
 7. Node.js
-8. Vite
+8. Vite <br>
 ###Bases de Datos:
 1. Relacionales: PostgreSQL, Oracle Database <br>
 2. No Relacionales: MongoDB<br>
